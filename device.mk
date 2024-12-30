@@ -39,3 +39,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     sensors.a52sxq
+
+# UDFPS
+$(call soong_config_set,samsung_udfps,udfps_zorder,0x20000000u)
