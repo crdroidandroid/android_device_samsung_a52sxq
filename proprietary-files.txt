@@ -309,6 +309,10 @@ vendor/firmware/wlan/a528b/rev10/wpss.b06|7e68827f93f83f312ab0bc02af48383e6defa7
 vendor/firmware/wlan/a528b/rev10/wpss.b07|748df8e5e00a69d9ead466924833f87b525eda7f
 vendor/firmware/wlan/a528b/rev10/wpss.mdt|3124463e127d6735d35edd1bc72a3326b385cd3c
 
+# Wifi firmware (bootloader revision 11) - from A528BXXSBGYC1 (U)
+vendor/firmware/wlan/a528b/rev11/wpss.b01|2b1457bf7d6c2f5b234f9474cc77ee022d8eed88
+vendor/firmware/wlan/a528b/rev11/wpss.mdt|e068aa47662cf02c66c9e51d9a93a8f06a3b048e
+
 # Wifi firmware (bootloader revision 5) - from A528NKSS5GXG1 (U)
 vendor/firmware/wlan/a528n/rev5/wpss.b00|4c7643e6826b0065fdc7eb9a48a8c3d3ff172cce
 vendor/firmware/wlan/a528n/rev5/wpss.b01|b3715ac0fb4279edea0674c55210450c49f9545c
