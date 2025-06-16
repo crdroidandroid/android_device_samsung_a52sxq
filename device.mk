@@ -36,6 +36,9 @@ PRODUCT_COPY_FILES += \
 # Blur
 TARGET_ENABLE_BLUR := true
 
+# BCR
+$(call inherit-product-if-exists, vendor/bcr/bcr.mk)
+
 # Sensors
 PRODUCT_COPY_FILES += \
     $(DEVICE_PATH)/sensors/hals.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/hals.conf
