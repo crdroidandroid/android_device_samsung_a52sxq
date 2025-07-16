@@ -52,3 +52,4 @@ PRODUCT_PACKAGES += \
 
 # UDFPS Customization
 TARGET_HAS_UDFPS := true
+$(call soong_config_set,surfaceflinger,udfps_lib,//$(DEVICE_PATH):libudfps_extension.a52sxq)
