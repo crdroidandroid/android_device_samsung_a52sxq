@@ -8,5 +8,10 @@
     	"repository": "crdroidandroid/proprietary_vendor_samsung_a52sxq",
 	"target_path": "vendor/samsung/a52sxq",
 	"branch": "15.0"
+    },
+    {
+        "repository": "crdroidandroid/vendor_bcr",
+	"target_path": "vendor/bcr",
+	"branch": "15.0"
     }
 ]
