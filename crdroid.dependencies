@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "crdroidandroid/android_device_samsung_sm7325-common",
+    "target_path": "device/samsung/sm7325-common",
+    "branch": "16.0-a52sxq"
+  },
+  {
+    "repository": "crdroidandroid/proprietary_vendor_samsung_a52sxq",
+    "target_path": "vendor/samsung/a52sxq",
+    "branch": "16.0"
+  },
+  {
+    "repository": "crdroidandroid/vendor_bcr",
+    "target_path": "vendor/bcr",
+    "branch": "16.0"
+  }
+]
