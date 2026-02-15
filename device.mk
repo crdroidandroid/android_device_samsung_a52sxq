@@ -34,6 +34,9 @@ PRODUCT_COPY_FILES += \
 # BCR
 $(call inherit-product-if-exists, vendor/bcr/bcr.mk)
 
+# GameBar
+$(call inherit-product-if-exists, packages/apps/GameBar/gamebar.mk)
+
 # Sensors
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/sensors/hals.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/hals.conf

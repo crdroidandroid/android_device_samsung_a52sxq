@@ -13,5 +13,10 @@
     "repository": "crdroidandroid/vendor_bcr",
     "target_path": "vendor/bcr",
     "branch": "16.0"
+  },
+  {
+    "repository": "anhdat1024/packages_apps_GameBar",
+    "target_path": "packages/apps/GameBar",
+    "branch": "16.0"
   }
 ]
